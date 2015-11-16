@@ -7,3 +7,6 @@ To build the extension:
 `python setup.py build_ext --inplace`
 
 Also, this demo uses numpy, scikit-learn, matplotlib, pyfits, and a plotting routine from astroML.  I recommend installing using pip and/or anaconda.
+
+# License
+Copyright 2015 Ross Fadely.  Software is free to use under the MIT License. For details see the LICENSE file.
