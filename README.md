@@ -5,3 +5,5 @@ The Cython extensions built here depend on <a href="http://www.gnu.org/software/
 
 To build the extension:
 `python setup.py build_ext --inplace`
+
+Also, this demo uses numpy, scikit-learn, matplotlib, pyfits, and a plotting routine from astroML.  I recommend installing using pip and/or anaconda.
